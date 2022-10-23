@@ -1,13 +1,11 @@
 # List Screenshots
 
-[⤓ Download Workflow](https://github.com/psu/alfred-list-screenshots/releases/latest/download/List%20Screenshots.alfredworkflow)
+[⤓ Download Workflow](https://github.com/psu/alfred-list-screenshots/blob/v1/List%20Screenshots.alfredworkflow)
 
 ## About
 
 List macOS Screenshots in Alfred, triggered by a Hotkey or a Keyword.
 The workflow is super simple, but propably my most used one. Hope you will find it usefull too!
-
-![Screenshot of Alfred with the workflow triggered by Hotkey](demo.png)
 
 ## Features
 
@@ -21,3 +19,5 @@ The workflow is super simple, but propably my most used one. Hope you will find 
 1. Download and add to Alfred.
 2. Navigate to the folder where macOS automatically saves your Screenshots (defaults to ~/Desktop).
 3. In the workflow open "File Filter" (yellow), select "Scope", and drag the folder to the list.
+
+![Screenshot of Alfred with the workflow triggered by Hotkey](demo.png)
