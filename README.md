@@ -1,10 +1,11 @@
 # List Screenshots
 
-[⤓ Download Workflow](https://github.com/psu/alfred-list-screenshots/blob/v1/List%20Screenshots.alfredworkflow)
+[⤓ Download Workflow](https://github.com/psu/alfred-list-screenshots/raw/v1/List%20Screenshots.alfredworkflow)
 
 ## About
 
 List macOS Screenshots in Alfred, triggered by a Hotkey or a Keyword.
+
 The workflow is super simple, but propably my most used one. Hope you will find it usefull too!
 
 ## Features
